@@ -1,0 +1,103 @@
+h1{
+    color: darkgreen;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: black;
+    
+}
+body{
+    background-image: url('hand-painted-watercolor-pastel-sky-background_23-2148902771.avif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.img-1{
+    width: 300px;
+    height: 200px;
+    border-radius: 5%;
+    
+}
+.img-2{
+    width: 300px;
+    height: 150;
+}
+.img-3{
+    width: 380px;
+    height: 250px;
+    margin-left: 650px;
+    position: absolute;
+}
+.img-4{
+    width: 220px;
+    height: 140px;
+    margin-left: 1040px;
+    margin-top: 110px;
+    position: absolute;
+}
+.img-5{
+    width: 220px;
+    height: 100px;
+    margin-bottom: 150px;
+    position: absolute; 
+    margin-left: 1040px;
+    
+}
+
+.img-6{
+width: 300px;
+height: 200px;
+}
+.img-7{
+width: 300px;
+height: 200px;
+}
+.p-1{
+text-align: center;
+font-size: large;
+color: blue;
+margin-top: 550px;
+}
+.img-8{
+width: 100px;
+height: 100px;
+}
+.img-9{
+width: 100px;
+height: 100px;
+}
+.img-10{
+width: 100px;
+height: 100px;
+}
+.img-11{
+width: 100px;
+height: 100px;
+}
+.img-12{
+width: 100px;
+height: 100px;
+}
+.img-13{
+width: 100px;
+height: 100px;
+}
+
+.div-5{
+margin-left: 650px;
+}
+.div-6{
+margin-left: 650px;
+padding-bottom: 5px;
+}
+
+.div-8{
+margin-left: 650px;
+position: absolute;
+margin-top: 265px;
+}
+.p-2{
+font-size: large;
+font-family: 'Cherry Bomb One', cursive;
+text-align: center;
+
+}
